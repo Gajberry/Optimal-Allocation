@@ -1,4 +1,4 @@
-# Choice Allocation using Min Weight Max Cardinality Matching (created ~2019)
+# Optimal Allocation with Preferences using Min Weight Max Cardinality Matching (created ~2019)
 
 This repo provides a tool to assign individuals their allocations based on their preferences. It has previously been used to assign students to placements, but it will feasibly work in any context in which each individual must be assigned one allocation.
 Each individual can provide their numbered preferences of each of the different allocations.
